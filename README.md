@@ -1,2 +1,2 @@
-# iot-cloud-platform-front
-🐺 A IoT Cloud Platform Web Server with Golang
+# iot-cloud-platform-web
+🐺 A IoT Cloud Platform Web Server with Vue3 + Vite
